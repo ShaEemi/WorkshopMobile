@@ -11,7 +11,7 @@
 ## Lien
 [ANDROID](https://github.com/williammerlemarty/APP_BEACONS_ANDROID) - SaveTheSpaceship_ANDROID
 
-[IOS](https://github.com/ShaEemi/WorkshopMobile/SaveTheSpaceship_IOS) - SaveTheSpaceship_IOS
+[IOS](https://github.com/ShaEemi/WorkshopMobile/SaveTheSpaceship_IOS/) - SaveTheSpaceship_IOS
 
 [API_SERVER](https://github.com/xeewi/mobile_game_server) - SaveTheSpaceship_Server
 
