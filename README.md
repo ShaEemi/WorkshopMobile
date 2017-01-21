@@ -6,7 +6,7 @@
 
 [Guillaume Gauthier](https://github.com/xeewi)
 
-[Grégoire Sayer](https://github.com/)
+[Grégoire Sayer](https://github.com/HockFird)
 
 ## Lien
 [ANDROID](https://github.com/williammerlemarty/APP_BEACONS_ANDROID) - SaveTheSpaceship_ANDROID
