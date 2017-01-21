@@ -13,7 +13,7 @@
 
 [IOS](https://github.com/ShaEemi/WorkshopMobile/SaveTheSpaceship_IOS) - SaveTheSpaceship_IOS
 
-[API_SERVER](https://github.com/xeewi/) - SaveTheSpaceship_Server
+[API_SERVER](https://github.com/xeewi/mobile_game_server) - SaveTheSpaceship_Server
 
 ## Version
 * Version beta 
